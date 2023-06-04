@@ -35,7 +35,7 @@ vtd <- voting_districts(state = 08)
 
 # Demographics --------------------------------------------
 
-
+# https://data.census.gov/table?g=050XX00US08003$7000000
 
 
 
